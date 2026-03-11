@@ -1633,13 +1633,13 @@
           "end": 77.59825897216797,
           "post_end": 77.59825897216797,
           "level": 4,
-          "label": "",
+          "label": "1st cycle",
           "color": "",
           "formal_type": "",
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "d55fbb31b777ebb072efd0ee1a712419"
+          "hash": "e7554908f7d1302aa0b83b53d89d7dc8"
         },
         "12": {
           "start": 77.59825897216797,
@@ -1647,13 +1647,13 @@
           "end": 155,
           "post_end": 155,
           "level": 4,
-          "label": "",
+          "label": "2nd cycle > coda",
           "color": "",
           "formal_type": "",
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "9317493cf35f048f7ad4b411f115a50e"
+          "hash": "a8dca2f28209ea7adf658b61a9e0b6f7"
         },
         "14": {
           "start": 26.433249116348268,
@@ -1661,13 +1661,13 @@
           "end": 47.099647521972656,
           "post_end": 47.099647521972656,
           "level": 3,
-          "label": "verse|repeated_phrase",
+          "label": "V: verse|repeated_phrase",
           "color": "",
           "formal_type": "",
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "3d525d6783e8ba7085dec00dfa992158"
+          "hash": "15a31cdc2302a8d261f16c9093f63159"
         },
         "15": {
           "start": 47.099647521972656,
@@ -1675,13 +1675,13 @@
           "end": 77.59825897216797,
           "post_end": 77.59825897216797,
           "level": 3,
-          "label": "",
+          "label": "C: chorus|rep(sr)rep(dc)",
           "color": "",
           "formal_type": "",
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "313eaa7e3612b5c321327df2c783b3a4"
+          "hash": "36f4e36cf09f14df5f70795f74c28c65"
         },
         "20": {
           "start": 26.433249116348268,
@@ -1717,13 +1717,13 @@
           "end": 31.638238049591063,
           "post_end": 31.638238049591063,
           "level": 1,
-          "label": "s",
+          "label": "s [M\u00b0]",
           "color": "",
           "formal_type": "",
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "85915203c4b9d242597ed6dfd159b28d"
+          "hash": "519789049c1ddb9dc739c228c74ce8fe"
         },
         "23": {
           "start": 31.638238049591063,
@@ -1787,13 +1787,13 @@
           "end": 16.114330885559085,
           "post_end": 16.114330885559085,
           "level": 2,
-          "label": "beg|sr",
+          "label": "A: beg|sr",
           "color": "",
           "formal_type": "",
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "f0c2cc5265ef149701780fe19c7a5d73"
+          "hash": "fcc7621097157074ae4bcfbfa5222e8a"
         },
         "38": {
           "start": 16.114330885559085,
@@ -1801,13 +1801,13 @@
           "end": 26.433249116348268,
           "post_end": 26.433249116348268,
           "level": 2,
-          "label": "end|repeated_dc",
+          "label": "B: end|repeated_dc",
           "color": "",
           "formal_type": "",
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "d03ea78da68368340093bfaeab0b330d"
+          "hash": "b7b5525e312a68b6fa5db594a7dc4293"
         },
         "40": {
           "start": 5.717118017166138,
@@ -1815,13 +1815,13 @@
           "end": 10.966770980926514,
           "post_end": 10.966770980926514,
           "level": 1,
-          "label": "s",
+          "label": "M: s",
           "color": "",
           "formal_type": "",
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "0c4dde2694644e4c12203bff0110d938"
+          "hash": "409a4fa0d5484e0ef190208c6f7aa48d"
         },
         "41": {
           "start": 10.966770980926514,
@@ -1864,9 +1864,163 @@
           "comments": "",
           "kind": "HIERARCHY",
           "hash": "b717577751db78e69250920f3f58cf99"
+        },
+        "47": {
+          "start": 67.51576310299683,
+          "pre_start": 67.51576310299683,
+          "end": 77.59825897216797,
+          "post_end": 77.59825897216797,
+          "level": 2,
+          "label": "% [B!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "f38a003c077ab24cdacc21f6bf263d9b"
+        },
+        "48": {
+          "start": 47.099647521972656,
+          "pre_start": 47.099647521972656,
+          "end": 57.299556732177734,
+          "post_end": 57.299556732177734,
+          "level": 2,
+          "label": "% [A!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "dc040b6a53f9788505a154a507872fae"
+        },
+        "49": {
+          "start": 57.299556732177734,
+          "pre_start": 57.299556732177734,
+          "end": 67.51576310299683,
+          "post_end": 67.51576310299683,
+          "level": 2,
+          "label": "% [A!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "72a6c747179661fedb7e0964cae35a06"
+        },
+        "51": {
+          "start": 77.59825897216797,
+          "pre_start": 77.59825897216797,
+          "end": 98.02943803814698,
+          "post_end": 98.02943803814698,
+          "level": 3,
+          "label": "% [V!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "b6124d9700cd333bfe6401adf764b450"
+        },
+        "52": {
+          "start": 98.02943803814698,
+          "pre_start": 98.02943803814698,
+          "end": 155,
+          "post_end": 155,
+          "level": 3,
+          "label": "chorus > ending|fade-out loop",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "27dbd67544df00bad34e6a79304e5f34"
+        },
+        "54": {
+          "start": 98.02943803814698,
+          "pre_start": 98.02943803814698,
+          "end": 108.20014101335144,
+          "post_end": 108.20014101335144,
+          "level": 2,
+          "label": "% [A!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "b1e8cf908d9bd9ed39d35beeb9d82ddd"
+        },
+        "56": {
+          "start": 108.20014101335144,
+          "pre_start": 108.20014101335144,
+          "end": 118.2969970703125,
+          "post_end": 118.2969970703125,
+          "level": 2,
+          "label": "% [A!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "d793d41849aa74594fbd71fd14ed6ce6"
+        },
+        "62": {
+          "start": 118.2969970703125,
+          "pre_start": 118.2969970703125,
+          "end": 128.43538196566772,
+          "post_end": 128.43538196566772,
+          "level": 2,
+          "label": "% [B!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "95606f8d13e7e593a0802b84e21536f8"
+        },
+        "63": {
+          "start": 128.43538196566772,
+          "pre_start": 128.43538196566772,
+          "end": 138.49684290081788,
+          "post_end": 138.49684290081788,
+          "level": 2,
+          "label": "% [B!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "8abf39c3c4a543409341e2351be3f145"
+        },
+        "65": {
+          "start": 138.49684290081788,
+          "pre_start": 138.49684290081788,
+          "end": 147.39581298828125,
+          "post_end": 147.39581298828125,
+          "level": 2,
+          "label": "% [B!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "b897fc6c00ffc44826dd68be2196eb32"
+        },
+        "66": {
+          "start": 147.39581298828125,
+          "pre_start": 147.39581298828125,
+          "end": 155,
+          "post_end": 155,
+          "level": 2,
+          "label": "% [B!]",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "29eb7bc9ec81e050926a198ea2644ad0"
         }
       },
-      "components_hash": "e48999764e87c0db2c9c46f9cd09cc3e"
+      "components_hash": "8631fde331e3071f12117d6bdae16bcb"
     },
     "38": {
       "kind": "HARMONY_TIMELINE",
