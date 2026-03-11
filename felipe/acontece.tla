@@ -1,5 +1,5 @@
 {
-  "file_path": "C:/Users/Felipe/dev/analysetreff/04.2026-drei-sambas/acontece.tla",
+  "file_path": "C:/Users/Felipe/Desktop/felipe/acontece.tla",
   "media_path": "https://www.youtube.com/watch?v=7oUdRG0lrBU",
   "media_metadata": {
     "title": "Acontece",
@@ -38,16 +38,44 @@
     "2": {
       "kind": "HIERARCHY_TIMELINE",
       "name": "Form",
-      "height": 60,
+      "height": 200,
       "is_visible": true,
       "ordinal": 2,
-      "hash": "793de779a94a83b66a0b0f7614bd2279",
+      "hash": "5d9b89a3e1000dbe951c2b4ccf3f4dcd",
       "components": {
-        "2": {
-          "start": 0,
-          "pre_start": 0,
-          "end": 79.0,
-          "post_end": 79.0,
+        "1680": {
+          "start": 4.883523941040039,
+          "pre_start": 4.883523941040039,
+          "end": 12.72632398474121,
+          "post_end": 12.72632398474121,
+          "level": 1,
+          "label": "bi",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "2883ddbc0222751a3f7f09b6a64cf6c3"
+        },
+        "1681": {
+          "start": 12.72632398474121,
+          "pre_start": 12.72632398474121,
+          "end": 20.21965217590332,
+          "post_end": 20.21965217590332,
+          "level": 1,
+          "label": "ci",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "3502cd7073d4236437184b7b918dcdb2"
+        },
+        "1682": {
+          "start": 20.21965217590332,
+          "pre_start": 20.21965217590332,
+          "end": 28.654909133911133,
+          "post_end": 28.654909133911133,
           "level": 1,
           "label": "",
           "color": "",
@@ -55,10 +83,206 @@
           "formal_function": "",
           "comments": "",
           "kind": "HIERARCHY",
-          "hash": "61c9fcff0677d3bc2000135bb9a1951e"
+          "hash": "a7647c7bf4c8980b1db01933ca94e7e6"
+        },
+        "1683": {
+          "start": 28.654909133911133,
+          "pre_start": 28.654909133911133,
+          "end": 35.61011811253357,
+          "post_end": 35.61011811253357,
+          "level": 1,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "f843f05d87ded9b2ee7f096530f9cdd8"
+        },
+        "1684": {
+          "start": 35.61011811253357,
+          "pre_start": 35.61011811253357,
+          "end": 38.49731399237061,
+          "post_end": 38.49731399237061,
+          "level": 1,
+          "label": "turn-around",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "ba84ec98570f6783c0d0d8f49c0c0a72"
+        },
+        "1685": {
+          "start": 38.49731399237061,
+          "pre_start": 38.49731399237061,
+          "end": 46.91158998664856,
+          "post_end": 46.91158998664856,
+          "level": 1,
+          "label": "bi",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "80951f4ad86df8fe5ecfb49662463e77"
+        },
+        "1686": {
+          "start": 46.91158998664856,
+          "pre_start": 46.91158998664856,
+          "end": 54.78855290653992,
+          "post_end": 54.78855290653992,
+          "level": 1,
+          "label": "ci",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "f805a7755b9edd344ddcc95fbce4be08"
+        },
+        "1687": {
+          "start": 54.78855290653992,
+          "pre_start": 54.78855290653992,
+          "end": 69.77982330322266,
+          "post_end": 69.77982330322266,
+          "level": 1,
+          "label": "",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "351b09a426eb30d3880f3e8a1172b9e4"
+        },
+        "1688": {
+          "start": 69.77982330322266,
+          "pre_start": 69.77982330322266,
+          "end": 75.94220715640259,
+          "post_end": 75.94220715640259,
+          "level": 1,
+          "label": "codetta",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "bc2fbc084c9c7e2c592286b97f1446a7"
+        },
+        "1689": {
+          "start": 4.883523941040039,
+          "pre_start": 4.883523941040039,
+          "end": 20.21965217590332,
+          "post_end": 20.21965217590332,
+          "level": 2,
+          "label": "ant",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "009203e6de2da3f6fc143519804b272c"
+        },
+        "1690": {
+          "start": 20.21965217590332,
+          "pre_start": 20.21965217590332,
+          "end": 38.49731399237061,
+          "post_end": 38.49731399237061,
+          "level": 2,
+          "label": "phrase",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "26d7886b8a0c15bf06f9ca8e4a79038c"
+        },
+        "1691": {
+          "start": 38.49731399237061,
+          "pre_start": 38.49731399237061,
+          "end": 54.78855290653992,
+          "post_end": 54.78855290653992,
+          "level": 2,
+          "label": "ant",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "753d33ca91711bcd1650f31501773d78"
+        },
+        "1692": {
+          "start": 54.78855290653992,
+          "pre_start": 54.78855290653992,
+          "end": 75.94220715640259,
+          "post_end": 75.94220715640259,
+          "level": 2,
+          "label": "phrase",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "827fa2782e1ed3e0bc0fd74fbcea6a3a"
+        },
+        "1693": {
+          "start": 0,
+          "pre_start": 0,
+          "end": 4.883523941040039,
+          "post_end": 4.883523941040039,
+          "level": 3,
+          "label": "intro",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "b0bc23ca9ed0d6bb2fb0c1668e5f362c"
+        },
+        "1694": {
+          "start": 4.883523941040039,
+          "pre_start": 4.883523941040039,
+          "end": 38.49731399237061,
+          "post_end": 38.49731399237061,
+          "level": 3,
+          "label": "theme?",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "9af57d15f6d7548c7776a78e52ac36f1"
+        },
+        "1695": {
+          "start": 38.49731399237061,
+          "pre_start": 38.49731399237061,
+          "end": 75.94220715640259,
+          "post_end": 75.94220715640259,
+          "level": 3,
+          "label": "theme?",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "b6a3fad86b74ea3f1cad84beb1e92307"
+        },
+        "1696": {
+          "start": 0,
+          "pre_start": 0,
+          "end": 75.94220715640259,
+          "post_end": 75.94220715640259,
+          "level": 4,
+          "label": "?",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "01b734b7168618e55e2d7923770f58c7"
         }
       },
-      "components_hash": "62e00f58f77afd60ed53abc3006a92c7"
+      "components_hash": "88c76a20ffa040e8feae3471ebee6318"
     },
     "4": {
       "kind": "BEAT_TIMELINE",
@@ -144,188 +368,188 @@
       "ordinal": 4,
       "hash": "4335f3d240037ad1c1f021f3a03e8ada",
       "components": {
-        "3": {
+        "1697": {
           "time": 0.5075969696044922,
           "kind": "BEAT",
           "hash": "43c67c84faf7e1f8699ca65a61d67485"
         },
-        "4": {
+        "1698": {
           "time": 2.2271769618530275,
           "kind": "BEAT",
           "hash": "bfa4e6a8b198a61e7a89f8bb3c8a57e8"
         },
-        "5": {
+        "1699": {
           "time": 4.883523941040039,
           "kind": "BEAT",
           "hash": "a0861f9ecf13304ce8a7fdd0737228f1"
         },
-        "6": {
+        "1700": {
           "time": 6.771428571428571,
           "kind": "BEAT",
           "hash": "03cdcabe4598603c7833ab9dd2dc9f1e"
         },
-        "7": {
+        "1701": {
           "time": 8.884089469909668,
           "kind": "BEAT",
           "hash": "317090fca3fd52fcacc88362a8fdd358"
         },
-        "8": {
+        "1702": {
           "time": 11.183571815490723,
           "kind": "BEAT",
           "hash": "241f4c3fe0797cf1181bec7f508b23c7"
         },
-        "9": {
+        "1703": {
           "time": 12.72632398474121,
           "kind": "BEAT",
           "hash": "a69eef01ed4eb18ec1388bfd573647f0"
         },
-        "10": {
+        "1704": {
           "time": 14.169506072998047,
           "kind": "BEAT",
           "hash": "1bdd2095ae681dc3b54e7e416f067be3"
         },
-        "11": {
+        "1705": {
           "time": 16.369901657104492,
           "kind": "BEAT",
           "hash": "8e2b39551e2ae554c9753ba3249aff95"
         },
-        "12": {
+        "1706": {
           "time": 18.097785,
           "kind": "BEAT",
           "hash": "02adb9bb8f1d923370029faf41896b6c"
         },
-        "13": {
+        "1707": {
           "time": 20.170978546142578,
           "kind": "BEAT",
           "hash": "55e6dc45b079a2fc1c43af5b1b5459de"
         },
-        "14": {
+        "1708": {
           "time": 22.168853759765625,
           "kind": "BEAT",
           "hash": "49d7263ae6cd41c62200e168de1c979b"
         },
-        "15": {
+        "1709": {
           "time": 24.770580291748047,
           "kind": "BEAT",
           "hash": "3f506ca8b76b534db44ffad760c1277e"
         },
-        "16": {
+        "1710": {
           "time": 26.836928049591066,
           "kind": "BEAT",
           "hash": "afd0acc10fcaf9272367aa8f350c69f1"
         },
-        "17": {
+        "1711": {
           "time": 28.80448398474121,
           "kind": "BEAT",
           "hash": "0b895231035419a447dc091baf9eddd9"
         },
-        "18": {
+        "1712": {
           "time": 31.069929122924805,
           "kind": "BEAT",
           "hash": "27d6faec19b798e76219e22e165e39dc"
         },
-        "19": {
+        "1713": {
           "time": 33.192831162124634,
           "kind": "BEAT",
           "hash": "a952eda613e1cfe08aaf115600cdab2b"
         },
-        "20": {
+        "1714": {
           "time": 35.61011811253357,
           "kind": "BEAT",
           "hash": "909bce52fa4228d103418f1170f08ddd"
         },
-        "21": {
+        "1715": {
           "time": 38.46858215332031,
           "kind": "BEAT",
           "hash": "502459266da060350127d9f2f38dcbc8"
         },
-        "22": {
+        "1716": {
           "time": 40.310124095367435,
           "kind": "BEAT",
           "hash": "62c129bf30d2c2c4b07701ae978df62b"
         },
-        "23": {
+        "1717": {
           "time": 42.96786117553711,
           "kind": "BEAT",
           "hash": "23cf0aa9cec7f44e7075df55e1c7f89d"
         },
-        "24": {
+        "1718": {
           "time": 44.635,
           "kind": "BEAT",
           "hash": "0c63fa436c109d9b02f7b60bb9c23b5a"
         },
-        "25": {
+        "1719": {
           "time": 46.770530133514406,
           "kind": "BEAT",
           "hash": "51bbc23b16efeb176ec8df11196961a5"
         },
-        "26": {
+        "1720": {
           "time": 48.87111687418785,
           "kind": "BEAT",
           "hash": "179c4caf25db932710b5e125df3a6234"
         },
-        "27": {
+        "1721": {
           "time": 50.532302133514406,
           "kind": "BEAT",
           "hash": "75a7e438a21eeee3025f2bcbd67469ac"
         },
-        "28": {
-          "time": 52.07866287231445,
+        "1722": {
+          "time": 52.346328625270054,
           "kind": "BEAT",
-          "hash": "424e725644ebd376ec2ccd42e91ccba7"
+          "hash": "dc744e8863b0da3b9084565f4787ddbb"
         },
-        "29": {
+        "1723": {
           "time": 54.90673613351441,
           "kind": "BEAT",
           "hash": "780051b8226dac8d3830dc49c3d9a857"
         },
-        "30": {
+        "1724": {
           "time": 56.22386697711182,
           "kind": "BEAT",
           "hash": "b9f8dd951d51a8e28e36c8c3a5c4a085"
         },
-        "31": {
+        "1725": {
           "time": 59.19516503619759,
           "kind": "BEAT",
           "hash": "60dc3ab83ecdf54e41bf3ed7107bff4b"
         },
-        "32": {
+        "1726": {
           "time": 61.427891979019165,
           "kind": "BEAT",
           "hash": "8d16df11d3378319073c6543fb279847"
         },
-        "33": {
+        "1727": {
           "time": 64.28005981445312,
           "kind": "BEAT",
           "hash": "132c93dc74b12a4e133dd4f6ca9345a5"
         },
-        "34": {
+        "1728": {
           "time": 66.77850341796875,
           "kind": "BEAT",
           "hash": "d9cf56a78bb4882c0941b27ce56ecbf4"
         },
-        "35": {
+        "1729": {
           "time": 69.77982330322266,
           "kind": "BEAT",
           "hash": "bcad263fa7a0a65b49b4f9ed4f61ecfc"
         },
-        "36": {
+        "1730": {
           "time": 73.38168334960938,
           "kind": "BEAT",
           "hash": "125fe215c82f1b4627997bc76673b9d4"
         }
       },
-      "components_hash": "11ec269f09b81c5e47dea25a8782202e"
+      "components_hash": "ad480cf773864a76270ee90ddf32edef"
     },
     "45": {
       "kind": "HIERARCHY_TIMELINE",
       "name": "Lyrics",
       "height": 40,
-      "is_visible": true,
+      "is_visible": false,
       "ordinal": 3,
-      "hash": "32146488a98c3d1b11bc6433f25db90a",
+      "hash": "e231cb529ed858837666c2241cf5a6f3",
       "components": {
-        "37": {
+        "1731": {
           "start": 4.970983028411865,
           "pre_start": 4.970983028411865,
           "end": 12.72632398474121,
@@ -339,7 +563,7 @@
           "kind": "HIERARCHY",
           "hash": "a2197f7ee37845eeb8339b3d88f8f2c4"
         },
-        "38": {
+        "1732": {
           "start": 12.72632398474121,
           "pre_start": 12.72632398474121,
           "end": 20.218160133514406,
@@ -353,7 +577,7 @@
           "kind": "HIERARCHY",
           "hash": "ccf4cdda8d94843a1e9a252652d7fd56"
         },
-        "39": {
+        "1733": {
           "start": 20.218160133514406,
           "pre_start": 20.218160133514406,
           "end": 28.742769990463255,
@@ -367,7 +591,7 @@
           "kind": "HIERARCHY",
           "hash": "25dd2646152a614f105ad5da1ef01edc"
         },
-        "40": {
+        "1734": {
           "start": 28.742769990463255,
           "pre_start": 28.742769990463255,
           "end": 31.800293109836417,
@@ -381,7 +605,7 @@
           "kind": "HIERARCHY",
           "hash": "60d4e3170e9aeaef0cd50a4d8db8deb1"
         },
-        "41": {
+        "1735": {
           "start": 31.800293109836417,
           "pre_start": 31.800293109836417,
           "end": 38.49767303466797,
@@ -395,7 +619,7 @@
           "kind": "HIERARCHY",
           "hash": "7cad3c7a92b69231b3339f08d20434a7"
         },
-        "42": {
+        "1736": {
           "start": 38.49767303466797,
           "pre_start": 38.49767303466797,
           "end": 46.899261474609375,
@@ -405,11 +629,11 @@
           "color": "",
           "formal_type": "",
           "formal_function": "",
-          "comments": "test",
+          "comments": "",
           "kind": "HIERARCHY",
-          "hash": "8b5b7188f8f09962aa0bbf69907f66cc"
+          "hash": "fcf421a11e94e0bc902be32a6222b05e"
         },
-        "43": {
+        "1737": {
           "start": 46.899261474609375,
           "pre_start": 46.899261474609375,
           "end": 54.89910888671875,
@@ -423,7 +647,7 @@
           "kind": "HIERARCHY",
           "hash": "3137b24a5276129245a59217cd22ed84"
         },
-        "44": {
+        "1738": {
           "start": 54.89910888671875,
           "pre_start": 54.89910888671875,
           "end": 58.998497009277344,
@@ -437,7 +661,7 @@
           "kind": "HIERARCHY",
           "hash": "1d02e5720c5aea5fe6704bcb6cb32756"
         },
-        "45": {
+        "1739": {
           "start": 58.998497009277344,
           "pre_start": 58.998497009277344,
           "end": 63.33447498025998,
@@ -451,7 +675,7 @@
           "kind": "HIERARCHY",
           "hash": "039ba58b2b91517cd13f487e86a0b7a0"
         },
-        "46": {
+        "1740": {
           "start": 63.33447498025998,
           "pre_start": 63.33447498025998,
           "end": 68.43425750732422,
@@ -464,23 +688,9 @@
           "comments": "",
           "kind": "HIERARCHY",
           "hash": "9880df5f7e2ee6d002a6dc52d9e84c06"
-        },
-        "47": {
-          "start": 68.43425750732422,
-          "pre_start": 68.43425750732422,
-          "end": 79.0,
-          "post_end": 79.0,
-          "level": 1,
-          "label": "11",
-          "color": "",
-          "formal_type": "",
-          "formal_function": "",
-          "comments": "",
-          "kind": "HIERARCHY",
-          "hash": "bae5d7af534e1b52c32965c20dfd458c"
         }
       },
-      "components_hash": "74d3457f9322d98e37c89111d87952b9"
+      "components_hash": "d929114ae8f51f31c0f4b4d225c18adb"
     },
     "47": {
       "kind": "HARMONY_TIMELINE",
@@ -488,11 +698,11 @@
       "level_height": 35,
       "is_visible": true,
       "name": "Harmony",
-      "ordinal": 5,
+      "ordinal": 6,
       "visible_level_count": 2,
-      "hash": "15f75ae87d5b300f7635f1fb1147aabd",
+      "hash": "8a4e15e9fa41252f1fc54a4aae419dfe",
       "components": {
-        "48": {
+        "1741": {
           "time": 0.5075969696044922,
           "comments": "",
           "step": 2,
@@ -507,7 +717,7 @@
           "kind": "HARMONY",
           "hash": "9c89d23ae4464c52c66e832540247496"
         },
-        "49": {
+        "1742": {
           "time": 1.441451110872597,
           "comments": "",
           "step": 4,
@@ -522,7 +732,7 @@
           "kind": "HARMONY",
           "hash": "aac29dac803f2840b570873aa3468bbc"
         },
-        "50": {
+        "1743": {
           "time": 2.2271769618530275,
           "comments": "",
           "step": 3,
@@ -537,7 +747,7 @@
           "kind": "HARMONY",
           "hash": "d0f087d892dcdd77c19c044ab2986fda"
         },
-        "51": {
+        "1744": {
           "time": 3.232236862182617,
           "comments": "",
           "step": 6,
@@ -552,7 +762,7 @@
           "kind": "HARMONY",
           "hash": "5d2a231e0e4aa91e280dd804e2f546a0"
         },
-        "52": {
+        "1745": {
           "time": 4.883523941040039,
           "comments": "",
           "step": 2,
@@ -567,7 +777,7 @@
           "kind": "HARMONY",
           "hash": "0308a173eae682283844a1f2f7937749"
         },
-        "53": {
+        "1746": {
           "time": 6.771428571428571,
           "comments": "",
           "step": 4,
@@ -582,7 +792,7 @@
           "kind": "HARMONY",
           "hash": "c03d51e1ce18234603731d28ce61ffe8"
         },
-        "54": {
+        "1747": {
           "time": 8.884089469909668,
           "comments": "",
           "step": 3,
@@ -597,7 +807,7 @@
           "kind": "HARMONY",
           "hash": "461f462bc1cfed6e9a946e9aac26994f"
         },
-        "55": {
+        "1748": {
           "time": 11.183571815490723,
           "comments": "",
           "step": 6,
@@ -612,7 +822,7 @@
           "kind": "HARMONY",
           "hash": "d24ccc714073791d9890238ef1629095"
         },
-        "56": {
+        "1749": {
           "time": 12.72632398474121,
           "comments": "",
           "step": 2,
@@ -627,7 +837,7 @@
           "kind": "HARMONY",
           "hash": "12ed406d90b45c57132a29d1207fbe1e"
         },
-        "57": {
+        "1750": {
           "time": 14.169506072998047,
           "comments": "",
           "step": 0,
@@ -642,7 +852,7 @@
           "kind": "HARMONY",
           "hash": "03b3acc433fb785233239204def16541"
         },
-        "58": {
+        "1751": {
           "time": 16.369901657104492,
           "comments": "",
           "step": 3,
@@ -657,7 +867,7 @@
           "kind": "HARMONY",
           "hash": "4578e5f486e19c56842864a15d23ec3c"
         },
-        "59": {
+        "1752": {
           "time": 18.097785,
           "comments": "",
           "step": 6,
@@ -672,7 +882,7 @@
           "kind": "HARMONY",
           "hash": "d336fe80addc14b98805e0fc9dca70d6"
         },
-        "60": {
+        "1753": {
           "time": 20.170978546142578,
           "comments": "",
           "step": 2,
@@ -687,7 +897,7 @@
           "kind": "HARMONY",
           "hash": "9d4a0320688afd207ddb25b27f739d7e"
         },
-        "61": {
+        "1754": {
           "time": 21.086326852823152,
           "comments": "",
           "step": 2,
@@ -702,7 +912,7 @@
           "kind": "HARMONY",
           "hash": "f276d5b662265f63ef741b950e7bffa0"
         },
-        "62": {
+        "1755": {
           "time": 22.168853759765625,
           "comments": "",
           "step": 2,
@@ -717,7 +927,7 @@
           "kind": "HARMONY",
           "hash": "bbe613a59fe89e85e0032c3a94bb24b1"
         },
-        "63": {
+        "1756": {
           "time": 24.770580291748047,
           "comments": "",
           "step": 5,
@@ -732,7 +942,7 @@
           "kind": "HARMONY",
           "hash": "763929c9db581e95794f02134e5d3586"
         },
-        "64": {
+        "1757": {
           "time": 26.836928049591066,
           "comments": "",
           "step": 1,
@@ -747,7 +957,7 @@
           "kind": "HARMONY",
           "hash": "f7b11438c051e638944a1db5b9813325"
         },
-        "65": {
+        "1758": {
           "time": 27.775342923960405,
           "comments": "",
           "step": 4,
@@ -762,7 +972,7 @@
           "kind": "HARMONY",
           "hash": "87fae145194a05b9980799aa63d66142"
         },
-        "66": {
+        "1759": {
           "time": 28.80448398474121,
           "comments": "",
           "step": 0,
@@ -777,7 +987,7 @@
           "kind": "HARMONY",
           "hash": "beaaa2d561fc21f31973c9115d2dd4a2"
         },
-        "67": {
+        "1760": {
           "time": 29.813900202783184,
           "comments": "",
           "step": 0,
@@ -792,7 +1002,7 @@
           "kind": "HARMONY",
           "hash": "08209028bb87428b53bc2e7abe289a6e"
         },
-        "68": {
+        "1761": {
           "time": 31.069929122924805,
           "comments": "",
           "step": 1,
@@ -807,7 +1017,7 @@
           "kind": "HARMONY",
           "hash": "e5f5699c1f12b81ee819562072786c82"
         },
-        "69": {
+        "1762": {
           "time": 32.265254974365234,
           "comments": "",
           "step": 4,
@@ -822,7 +1032,7 @@
           "kind": "HARMONY",
           "hash": "540d42f659ac767bfcee3b1b2eee5bd4"
         },
-        "70": {
+        "1763": {
           "time": 33.192831162124634,
           "comments": "",
           "step": 0,
@@ -837,7 +1047,7 @@
           "kind": "HARMONY",
           "hash": "26c16fe5a1084af92d2ecce9d4ab423f"
         },
-        "71": {
+        "1764": {
           "time": 35.078749502056766,
           "comments": "",
           "step": 5,
@@ -852,7 +1062,7 @@
           "kind": "HARMONY",
           "hash": "178ab93376a01dcfe00c6d7c78229924"
         },
-        "72": {
+        "1765": {
           "time": 35.61011811253357,
           "comments": "",
           "step": 6,
@@ -867,7 +1077,7 @@
           "kind": "HARMONY",
           "hash": "3dcc7ed8960bd7cb6e903e3734507d0e"
         },
-        "73": {
+        "1766": {
           "time": 38.46858215332031,
           "comments": "",
           "step": 2,
@@ -882,7 +1092,7 @@
           "kind": "HARMONY",
           "hash": "cdaec2d703762ea1d7e3320919896f2e"
         },
-        "74": {
+        "1767": {
           "time": 40.310124095367435,
           "comments": "",
           "step": 4,
@@ -897,7 +1107,7 @@
           "kind": "HARMONY",
           "hash": "3c6547e8f920f3cad968bb37837f35e0"
         },
-        "75": {
+        "1768": {
           "time": 42.96786117553711,
           "comments": "",
           "step": 3,
@@ -912,7 +1122,7 @@
           "kind": "HARMONY",
           "hash": "ce011f16208d852c95e4703efefc9190"
         },
-        "76": {
+        "1769": {
           "time": 44.635,
           "comments": "",
           "step": 6,
@@ -927,7 +1137,7 @@
           "kind": "HARMONY",
           "hash": "6d8ccd324beaeadba803229376292a5e"
         },
-        "77": {
+        "1770": {
           "time": 46.770530133514406,
           "comments": "",
           "step": 2,
@@ -942,7 +1152,7 @@
           "kind": "HARMONY",
           "hash": "43fb2a9501018c1c3c7f59a001c3475f"
         },
-        "78": {
+        "1771": {
           "time": 48.87111687418785,
           "comments": "",
           "step": 0,
@@ -957,7 +1167,7 @@
           "kind": "HARMONY",
           "hash": "9986a71e874346096b872c3468c5d2f3"
         },
-        "79": {
+        "1772": {
           "time": 50.532302133514406,
           "comments": "",
           "step": 3,
@@ -972,8 +1182,8 @@
           "kind": "HARMONY",
           "hash": "db767fe5fa3f4e0034f7c8a9e522ddce"
         },
-        "80": {
-          "time": 52.07866287231445,
+        "1773": {
+          "time": 52.38136632849982,
           "comments": "",
           "step": 6,
           "accidental": 0,
@@ -985,9 +1195,9 @@
           "custom_text": "",
           "custom_text_font_type": "analytic",
           "kind": "HARMONY",
-          "hash": "1ea7957495a43f4379f34c95a18f8f04"
+          "hash": "eddab028565b0de4d5a2dd7f2f7bd6eb"
         },
-        "81": {
+        "1774": {
           "time": 53.674686431884766,
           "comments": "",
           "step": 2,
@@ -1002,7 +1212,7 @@
           "kind": "HARMONY",
           "hash": "d081e15e56a853073ef60a6b4366bddc"
         },
-        "82": {
+        "1775": {
           "time": 54.90673613351441,
           "comments": "",
           "step": 5,
@@ -1017,7 +1227,7 @@
           "kind": "HARMONY",
           "hash": "1832ff85f2f3fbc394cbaa7aedf7f3d4"
         },
-        "83": {
+        "1776": {
           "time": 56.22386697711182,
           "comments": "",
           "step": 5,
@@ -1032,7 +1242,7 @@
           "kind": "HARMONY",
           "hash": "5aaeb17947d49d44c78949ce30063641"
         },
-        "84": {
+        "1777": {
           "time": 59.19516503619759,
           "comments": "",
           "step": 2,
@@ -1047,7 +1257,7 @@
           "kind": "HARMONY",
           "hash": "e84978de1efc5e915565196512907470"
         },
-        "85": {
+        "1778": {
           "time": 61.509175831130804,
           "comments": "",
           "step": 0,
@@ -1062,7 +1272,7 @@
           "kind": "HARMONY",
           "hash": "7994b8f4bde65d766bf1a6f627d116fe"
         },
-        "86": {
+        "1779": {
           "time": 64.35718911720245,
           "comments": "",
           "step": 3,
@@ -1077,7 +1287,7 @@
           "kind": "HARMONY",
           "hash": "80382e73a0a209a40678f96f99860d4c"
         },
-        "87": {
+        "1780": {
           "time": 66.77850341796875,
           "comments": "",
           "step": 6,
@@ -1092,7 +1302,7 @@
           "kind": "HARMONY",
           "hash": "b5597aa8e64b619da2d35da99c904b8a"
         },
-        "88": {
+        "1781": {
           "time": 69.77982330322266,
           "comments": "",
           "step": 2,
@@ -1107,7 +1317,7 @@
           "kind": "HARMONY",
           "hash": "8439ed0f086d4a1e3aebf7d1e791eb10"
         },
-        "89": {
+        "1782": {
           "time": 71.19992699809265,
           "comments": "",
           "step": 5,
@@ -1122,7 +1332,7 @@
           "kind": "HARMONY",
           "hash": "e4a6e5b47c7b2547ceeba56522f25b7c"
         },
-        "90": {
+        "1783": {
           "time": 73.38168334960938,
           "comments": "",
           "step": 2,
@@ -1137,7 +1347,7 @@
           "kind": "HARMONY",
           "hash": "a8466d8e574082fd1aa80347491fd8f6"
         },
-        "91": {
+        "1784": {
           "time": 0.5075969696044922,
           "step": 2,
           "accidental": 0,
@@ -1148,10 +1358,106 @@
           "hash": "2e492d44a98746e24aebdd01932eee6e"
         }
       },
-      "components_hash": "9fb44a28a7ba7f0ed7fddee39eb27cca"
+      "components_hash": "e238b0ce45ab43a57772566faf499c63"
+    },
+    "608": {
+      "kind": "MARKER_TIMELINE",
+      "name": "Cadences",
+      "height": 20,
+      "is_visible": true,
+      "ordinal": 5,
+      "hash": "08efb2bb6a94b50b8ad95725e95d243c",
+      "components": {
+        "1785": {
+          "time": 18.097785,
+          "comments": "",
+          "label": "HC",
+          "color": null,
+          "kind": "MARKER",
+          "hash": "10ea575376534ed806bfd9424eba4b5c"
+        },
+        "1786": {
+          "time": 33.192831162124634,
+          "comments": "",
+          "label": "PAC (bVI)",
+          "color": null,
+          "kind": "MARKER",
+          "hash": "5f1c1f5e25634e931be592f46ff3100a"
+        },
+        "1787": {
+          "time": 52.346328625270054,
+          "comments": "",
+          "label": "HC",
+          "color": null,
+          "kind": "MARKER",
+          "hash": "dbcecd1b2798c59fd8a092ca07ec2813"
+        },
+        "1788": {
+          "time": 69.77982330322266,
+          "comments": "",
+          "label": "PAC",
+          "color": null,
+          "kind": "MARKER",
+          "hash": "f469b8dcaab7969b5774f60a4046399b"
+        }
+      },
+      "components_hash": "d73976a82799ac14588d2d6175f7fb4e"
+    },
+    "623": {
+      "kind": "HIERARCHY_TIMELINE",
+      "name": "Categories",
+      "height": 120,
+      "is_visible": true,
+      "ordinal": 7,
+      "hash": "0f33d9b3e0c08a64eb9e96ae5e1a76ed",
+      "components": {
+        "1789": {
+          "start": 16.369901657104492,
+          "pre_start": 16.369901657104492,
+          "end": 20.170978546142578,
+          "post_end": 20.170978546142578,
+          "level": 1,
+          "label": "tail_refrain",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "362176559dec1b3e2b2cc5b5ef2fdc17"
+        },
+        "1790": {
+          "start": 38.49731399237061,
+          "pre_start": 38.49731399237061,
+          "end": 42.96786117553711,
+          "post_end": 42.96786117553711,
+          "level": 1,
+          "label": "head_refrain?",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "541cbf77853af80ec7454fb6d9982cd2"
+        },
+        "1791": {
+          "start": 66.77850341796875,
+          "pre_start": 66.77850341796875,
+          "end": 73.38168334960938,
+          "post_end": 73.38168334960938,
+          "level": 1,
+          "label": "tail_refrain",
+          "color": "",
+          "formal_type": "",
+          "formal_function": "",
+          "comments": "",
+          "kind": "HIERARCHY",
+          "hash": "c52ab1cf6a2163136fc234ec333a0664"
+        }
+      },
+      "components_hash": "6e4083e4c43ce9bc7f6d759612b90efa"
     }
   },
-  "timelines_hash": "b23de756cb27e271532d49c421c31716",
+  "timelines_hash": "5e6be3047cd02236b902b3c4d1df8f16",
   "app_name": "TiLiA",
   "version": "0.5.15"
 }
